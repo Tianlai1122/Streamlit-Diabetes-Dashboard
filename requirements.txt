@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+seaborn
+numpy<2.4
+ydata-profiling
